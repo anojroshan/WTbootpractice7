@@ -1,0 +1,83 @@
+#mynav{
+    font-size:small;
+    font-weight: 700;
+}
+body{
+    background-color: rgb(249, 255, 254);
+}
+#drop{
+    background-color:#777 ;
+}
+#drop a:active{
+    background-color: #16336d;
+}
+#drop2{
+    background-color:#777 ;
+}
+#drop2 a:active{
+    background-color: #16336d;
+}
+nav{
+    position: fixed;
+    display: flex;
+}
+#listgrp{
+    margin-top: 20px;
+    font-size: small;
+    align-items: center;
+}
+#expcarousel{
+    margin-top: 20px;
+}
+.card a{
+    background-color: #16336d;
+    color: white;
+}
+.card{
+    margin-top: 20px;
+    
+}
+.card-body{
+    background-color: wheat;
+}
+#foot{
+    text-align: center;
+    background-color: #16336d;
+    margin-top: 20px;
+    
+}
+#foot a, #foot p{
+    color: white;
+    margin-right: 20px;
+}
+#tabs{
+    margin-top: 20px;
+}
+.nav-tabs .nav-link{
+    border: 6px solid transparent;
+}
+#m1{
+    margin-top: 30px;
+}
+.tab-content h4{
+    color: #16336d;
+}
+#m2{
+    margin-top: 30px;
+}
+#enroll{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+#subm{
+    justify-content: center;
+    align-items: center;
+}
+
+#bef{
+    background: linear-gradient( rgba(0,0,0, 0.8), rgba(0,0,0, 0.8) );
+}
+#aft{
+    background: linear-gradient( rgba(0,0,0, 0.8), rgba(0,0,0, 0.8) );
+}
+
